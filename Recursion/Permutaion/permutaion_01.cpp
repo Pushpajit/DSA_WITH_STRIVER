@@ -21,6 +21,7 @@ class Solution {
             }
         }
     }
+
 public:
     vector<vector<int>> permute(vector<int>& nums) {
         unordered_map<int, int> hsh;
