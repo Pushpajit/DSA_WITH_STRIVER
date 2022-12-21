@@ -1,3 +1,5 @@
+// WITH EXTRA SPACE HASH DATA STRUCTURE.
+
 class Solution {
     void permutation(vector<int>& nums, unordered_map<int, int> &hsh, vector<int> &pmt, vector<vector<int>> &ans) {
         // If pmt vector is filled then add it to answer.
