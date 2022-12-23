@@ -1,5 +1,14 @@
-PROBLEM 2: [ Dp on stocks 2 ]
+PROBLEM 2: [ Dp on stocks II ]
 
-	Youtube link: https://www.youtube.com/watch?v=nGJmxkUJQGs&t=689s
-	Leetcode link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+	Youtube link: 
+			https://www.youtube.com/watch?v=nGJmxkUJQGs&t=689s
+	Leetcode link:
+			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
+
+PROBLEM 3: [ Dp on stocks III ]
+
+	Youtube link: 
+			https://www.youtube.com/watch?v=-uQGzhYj8BQ
+	Leetcode link:
+			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
