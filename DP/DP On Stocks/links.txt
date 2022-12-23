@@ -14,9 +14,17 @@ PROBLEM 3: [ Dp on stocks III ]
 			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
 
 
-PROBLEM 3: [ Dp on stocks IV ]
+PROBLEM 4: [ Dp on stocks IV ]
 
 	Youtube link: 
 			https://www.youtube.com/watch?v=IV1dHbk5CDc&t=194s
 	Leetcode link:
 			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+
+
+PROBLEM 5: [ Dp on stocks V with cooldown ]
+
+	Youtube link: 
+			https://www.youtube.com/watch?v=IGIe46xw3YY
+	Leetcode link:
+			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
