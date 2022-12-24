@@ -28,3 +28,11 @@ PROBLEM 5: [ Dp on stocks V with cooldown ]
 			https://www.youtube.com/watch?v=IGIe46xw3YY
 	Leetcode link:
 			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+
+
+PROBLEM 6: [ Dp on stocks VI with transaction fee ]
+
+	Youtube link: 
+			https://www.youtube.com/watch?v=k4eK-vEmnKg&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=41
+	Leetcode link:
+			https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
