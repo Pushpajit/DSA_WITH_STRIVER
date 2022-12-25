@@ -20,7 +20,7 @@ public:
             DP[ind] += cnt;
         }
 
-        // Find the maximum length stired in DP vector.
+        // Find the maximum length stored in DP vector.
         int MAX = 1;
         for (int i : DP) MAX = max(MAX, i);
 
