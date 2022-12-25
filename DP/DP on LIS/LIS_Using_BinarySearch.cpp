@@ -13,6 +13,7 @@ Very simple intuition.
 
 */
 
+
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {

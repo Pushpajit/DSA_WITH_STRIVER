@@ -15,3 +15,9 @@ PROBLEM 2: [LIS Using Binary Search (MOST IMP)]
 
 	leetcode:
 		https://leetcode.com/problems/longest-increasing-subsequence/description/
+
+
+
+PROBLEM 2: [Longest Subsequence With Limited Sum]
+	
+	leetcode: https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/
