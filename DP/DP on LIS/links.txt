@@ -18,6 +18,6 @@ PROBLEM 2: [LIS Using Binary Search (MOST IMP)]
 
 
 
-PROBLEM 2: [Longest Subsequence With Limited Sum]
+PROBLEM 3: [Longest Subsequence With Limited Sum]
 	
 	leetcode: https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/
