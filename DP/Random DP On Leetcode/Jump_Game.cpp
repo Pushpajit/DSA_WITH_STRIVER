@@ -1,5 +1,5 @@
 //leetcode: https://leetcode.com/problems/jump-game/description/
-
+// Read the problem statement 1st then try to solve by yourself then show this solution.
 class Solution {
 
 public:
