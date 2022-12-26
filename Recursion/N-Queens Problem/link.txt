@@ -1,0 +1,8 @@
+PROBLEM: [N Queens Problem] 
+	
+	leetcode: 
+		https://leetcode.com/problems/n-queens/description/
+
+	youtube: 
+		https://www.youtube.com/watch?v=i05Ju7AftcM&t=1619s  
+		**//It can be optimized, watch video last part//
