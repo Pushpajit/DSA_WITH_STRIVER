@@ -20,4 +20,15 @@ PROBLEM 2: [LIS Using Binary Search (MOST IMP)]
 
 PROBLEM 3: [Longest Subsequence With Limited Sum]
 	
-	leetcode: https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/
+	leetcode: 
+		https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/
+
+
+
+PROBLEM 4: [Largest Divisible Subset]
+	
+	youtube:
+		https://www.youtube.com/watch?v=gDuZwBW9VvM&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=45
+	
+	leetcode: 
+		https://leetcode.com/problems/largest-divisible-subset/description/
