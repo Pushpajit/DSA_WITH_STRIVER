@@ -32,3 +32,13 @@ PROBLEM 4: [Largest Divisible Subset]
 	
 	leetcode: 
 		https://leetcode.com/problems/largest-divisible-subset/description/
+
+
+
+PROBLEM 5: [Longest String Chain]
+	
+	youtube:
+		https://www.youtube.com/watch?v=YY8iBaYcc4g&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=46&t=137s
+	
+	leetcode: 
+		https://leetcode.com/problems/longest-string-chain/description/
