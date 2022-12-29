@@ -52,3 +52,13 @@ PROBLEM 6: [Longest Bitonic subsequence]
 	
 	gfg: 
 		https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1
+
+
+
+PROBLEM 7: [Number of Longest Increasing Subsequence]
+	
+	youtube:
+		https://www.youtube.com/watch?v=cKVl1TFdNXg&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=48
+	
+	leetcode: 
+		https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/
