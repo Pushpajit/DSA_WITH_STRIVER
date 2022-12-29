@@ -18,7 +18,7 @@ public:
 				// From n - 1 to (n - 1 - i) + 1
 				// You can assume it as from last index to (i - 1)th index from reverse direction.
 				if (nums[n - 1 - j] < nums[n - 1 - i] && back[n - 1 - j] + 1 > back[n - 1 - i])
-					back[n - 1 - i] = back[n - 1 - j] + 1; // Update the DP[i] if we found greater length.
+					back[n - 1 - i] = back[n - 1 - j] + 1; // Update the DP[n - 1 - i] if we found greater length.
 
 			}
 		}
