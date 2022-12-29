@@ -42,3 +42,13 @@ PROBLEM 5: [Longest String Chain]
 	
 	leetcode: 
 		https://leetcode.com/problems/longest-string-chain/description/
+
+
+
+PROBLEM 6: [Longest Bitonic subsequence]
+	
+	youtube:
+		https://www.youtube.com/watch?v=y4vN0WNdrlg&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=47
+	
+	gfg: 
+		https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1
