@@ -7,11 +7,11 @@ DP on partition rules:
     4. Return the best possible 2 partition.
 
 ● (i == j) return 0 (for single matrix cost is 0)
-● cost = arr[i - 1] * arr[k] * arr[j]
-● f(i, k) + f(k+1, j)
-● add them up
-● find minimum of all of them
-● return
+● curr_cost = arr[i - 1] * arr[k] * arr[j]
+● call = f(i, k) + f(k+1, j)
+● total_operation = curr_cost + call
+● find minimum of all total_operation
+● return minimum of them
 
 */
 
