@@ -7,9 +7,19 @@ PROBLEM 1: [Matrix Chain Multiplication Memoization and Tabulation]
 		https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344?leftPanelTab=0
 
 
+
 PROBLEM 2: [Minimum Cost to Cut a Stick]
 	youtube: 
 		https://www.youtube.com/watch?v=xwomavsC86c&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=51
 
 	leetcode:
 		https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
+
+
+
+PROBLEM 3: [Burst Balloons]
+	youtube: 
+		https://www.youtube.com/watch?v=Yz4LlDSlkns&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=52
+
+	leetcode:
+		https://leetcode.com/problems/burst-balloons/description/
