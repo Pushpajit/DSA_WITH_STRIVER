@@ -5,7 +5,7 @@
 */
 
 class Solution {
-    char dfs(unordered_map<char, vector<char>> &adj, char curr, char parent, vector<int> &vis) {
+    char dfs(unordered_map<char, vector<char>> &adj, char curr, vector<int> &vis) {
         // Initialize current node as minimum.
 
         char MIN = curr;
@@ -16,7 +16,7 @@ class Solution {
         for (auto node : adj[curr]) {
 
             if (!vis[node - 'a'])
-                MIN = min(MIN, dfs(adj, node, curr, vis));
+                MIN = min(MIN, dfs(adj, node, vis));
 
         }
 
@@ -42,7 +42,7 @@ public:
             vector<int> vis(26);
 
             // Add minimum char to the answer.
-            ans += dfs(adj, baseStr[i], '$', vis);
+            ans += dfs(adj, baseStr[i], vis);
         }
 
         return ans;
