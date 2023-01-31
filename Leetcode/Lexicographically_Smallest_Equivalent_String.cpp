@@ -42,7 +42,7 @@ public:
             vector<int> vis(26);
 
             // Add minimum char to the answer.
-            ans += dfs(adj, baseStr[i], vis);
+            ans += dfs(adj, baseStr[i]o, vis);
         }
 
         return ans;
