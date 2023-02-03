@@ -25,7 +25,7 @@ public:
         for (char c : s) {
             // If the head i is exhausted the last row then
             // toggle traversing direction to Diagonally.
-            if (i == numRows) {
+            if (i >= numRows) {
                 i--;
                 zigzag = !zigzag;
             }
