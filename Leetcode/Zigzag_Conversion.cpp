@@ -17,7 +17,7 @@ public:
 
         // Utilities
         vector<string> v(numRows);
-        int i = 0, j = 0;
+        int i = 0;
         int zigzag = false;
         // ...
 
@@ -25,7 +25,7 @@ public:
         for (char c : s) {
             // If the head i is exhausted the last row then
             // toggle traversing direction to Diagonally.
-            if (i >= numRows) {
+            if (i == numRows) {
                 i--;
                 zigzag = !zigzag;
             }
@@ -42,28 +42,25 @@ public:
             // Go downwards.
             if (!zigzag) {
                 v[i].push_back(c);
+
                 i++;
             }
             // Else go Right Dialgonally.
             else {
-                j++;
+                // Push the current char into v[i]
+                v[i - 1].push_back(c);
+
                 i--;
-                // Vizualise the patteren, fill the gap with empty char.
-                while (v[i].size() < j)
-                    v[i].push_back(' ');
-
-                // Push the current char into v[i]'s last index.
-                v[i].push_back(c);
-
             }
         }
 
+
         // Construct the answer.
         string ans = "";
+
         for (auto vec : v) {
-            for (char c : vec) {
-                if (c != ' ') ans += c;
-            }
+            for (char c : vec)
+                ans += c;
         }
 
         return ans;
