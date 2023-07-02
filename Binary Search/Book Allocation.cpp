@@ -4,6 +4,7 @@ using namespace std;
 
 // Time Complexity: O(N*log(high - low))
 // Space Complexity: O(1)
+// problem Link: https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 
 class Solution
 {
